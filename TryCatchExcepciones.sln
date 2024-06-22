@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchExcepciones", "TryCatchExcepciones\TryCatchExcepciones.csproj", "{3FF7B4EB-384E-443B-AC88-5109EEB51C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF7B4EB-384E-443B-AC88-5109EEB51C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF7B4EB-384E-443B-AC88-5109EEB51C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF7B4EB-384E-443B-AC88-5109EEB51C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF7B4EB-384E-443B-AC88-5109EEB51C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B97841-3E83-486B-96D1-FCF9A373B52B}
+	EndGlobalSection
+EndGlobal
